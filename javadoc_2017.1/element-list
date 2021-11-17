@@ -1,0 +1,12 @@
+org.jetbrains.mps.annotations
+org.jetbrains.mps.openapi.event
+org.jetbrains.mps.openapi.language
+org.jetbrains.mps.openapi.model
+org.jetbrains.mps.openapi.module
+org.jetbrains.mps.openapi.module.event
+org.jetbrains.mps.openapi.persistence
+org.jetbrains.mps.openapi.persistence.datasource
+org.jetbrains.mps.openapi.project
+org.jetbrains.mps.openapi.repository
+org.jetbrains.mps.openapi.util
+org.jetbrains.mps.util
