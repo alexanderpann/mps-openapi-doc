@@ -3,7 +3,7 @@ Javadoc for the [Open API](https://www.jetbrains.com/help/mps/open-api-accessing
 
 <img width="500" alt="screenshot" src="https://user-images.githubusercontent.com/88385944/142278544-17991312-1a18-4443-90f9-5944c29c0224.png">
 
-Go to Javadoc Open API of
+Go to Javadoc of
 
  - [MPS 2021.2](https://alexanderpann.github.io/mps-openapi-doc/javadoc_2021.2)
  - [MPS 2021.1](https://alexanderpann.github.io/mps-openapi-doc/javadoc_2021.1)
